@@ -25,11 +25,11 @@ Enabled : [ ]
 
 # New User
 
- **Username**:  [ ______________ ]
- **Display Name** : [ __________ ]
+**Username**:  [ ______________ ]
+**Display Name** : [ __________ ]
 **Phone** :   [ _______________ ]
 **Email** : [________________]
- **User Roles** : Select user  *role*   
+**User Roles** : Select user  *role*   
 
 -   *[ Guest]* 
 -  *[Admin ]* 
