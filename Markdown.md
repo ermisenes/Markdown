@@ -19,12 +19,7 @@ Enabled : [ ]
 
 
 
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| ID | User Name |  Email | Enabled
+| ------ | ------ |------ | ------ |
+| 1 | AdminUser | admin@piwork.net | true
+| 2 | Test User | testuser@piwork.net | true
