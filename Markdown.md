@@ -25,11 +25,13 @@ Enabled : [ ]
 | 2 | Test User | testuser@piwork.net | true
 
 # New User
-- **Username**:  [ ______________ ]
-- **Display Name** : [ __________ ]
-- **Phone** :   [ _______________ ]
-- **Email** : [________________]
-- **User Roles** : Select user  *role*   
+
+ **Username**:  [ ______________ ]
+ **Display Name** : [ __________ ]
+**Phone** :   [ _______________ ]
+**Email** : [________________]
+ **User Roles** : Select user  *role*   
+
 -   *[ Guest]* 
 -  *[Admin ]* 
 - *[SuperAdmin]*
