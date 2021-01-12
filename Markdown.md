@@ -8,12 +8,11 @@
  
 
     New User    
- Username:  [ ______________ ] 
-
- Display Name : [ __________ ]
- Phone :   [ _______________ ]
- Email : [________________]
- User Roles : Select user  *role*   *[ Guest]*  *[Admin ]* *[SuperAdmin]*
+Username:  [ ______________ ] 
+Display Name : [ __________ ]
+Phone :   [ _______________ ]
+Email : [________________]
+User Roles : Select user  *role*   *[ Guest]*  *[Admin ]* *[SuperAdmin]*
 Enabled : [ ] 
 
 
