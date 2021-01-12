@@ -26,6 +26,3 @@ Enabled : [ ]
 
 
 
-{% include button.html url="http://www.google.com" %}
-
-[button url="http://www.google.com"
