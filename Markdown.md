@@ -23,3 +23,9 @@ Enabled : [ ]
 | ------ | ------ |------ | ------ |
 | 1 | AdminUser | admin@piwork.net | true
 | 2 | Test User | testuser@piwork.net | true
+
+
+
+{% include button.html url="http://www.google.com" %}
+
+[button url="http://www.google.com"
