@@ -8,7 +8,8 @@
  
 
     New User    
- Username:  [ ______________ ]
+ Username:  [ ______________ ] 
+
  Display Name : [ __________ ]
  Phone :   [ _______________ ]
  Email : [________________]
