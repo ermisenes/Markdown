@@ -5,12 +5,10 @@
 | 1 | AdminUser | admin@piwork.net | true
 | 2 | Test User| testuser@piwork.net | true
 
- enes
- ermişş
 
     New User    
-Username:  [ ______________ ] 
-Display Name : [ __________ ]
+Username:  [ ______________ ] |
+Display Name : [ __________ ] |
 Phone :   [ _______________ ]
 Email : [________________]
 User Roles : Select user  *role*   *[ Guest]*  *[Admin ]* *[SuperAdmin]*
