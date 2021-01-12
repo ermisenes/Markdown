@@ -16,7 +16,6 @@ Enabled : [ ]
 
 
 
-
 [![Build Status](https://i.hizliresim.com/tnlRd4.png)]()  [![Build Status](https://i.hizliresim.com/41u3rb.png)]()   [![Build Status](https://i.hizliresim.com/n3AXHg.png)]()         
 | ID | User Name |  Email | Enabled
 | ------ | ------ |------ | ------ |
@@ -25,18 +24,17 @@ Enabled : [ ]
 
 # New User
 
-**Username**:  [ ______________ ]
-**Display Name** : [ __________ ]
-**Phone** :   [ _______________ ]
-**Email** : [________________]
-**User Roles** : Select user  *role*   
+- **Username**:  [ ______________ ]
+- **Display Name** : [ __________ ]
+- **Phone** :   [ _______________ ]
+- **Email** : [________________]
+- **User Roles** : Select user  *role*   
 
 -   *[ Guest]* 
 -  *[Admin ]* 
 - *[SuperAdmin]*
 
-**Enabled** : [ ] 
-
+- **Enabled** : [ ] 
 
 
 
