@@ -39,6 +39,4 @@ Enabled : [ ]
 
 
 
-| ------ | ------ |------ | ------ |
-| 1 | AdminUser | admin@piwork.net | true
-| 2 | Test User | testuser@piwork.net | true
+
